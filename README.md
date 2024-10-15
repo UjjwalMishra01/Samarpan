@@ -8,31 +8,31 @@ Samarpan is a web application that allows NGOs to post their requirements and us
 - MongoDB to store posts and MySQL for storing user login information.
 - Modern UI using ReactJS with a responsive design.
 
-## **Tech Stack**
-##Frontend:
-ReactJS: A JavaScript library for building user interfaces.
-Vite: A build tool for modern web projects.
-CSS: Styling for the user interface.
-Reactstrap: For UI components (Optional, can be replaced with custom CSS).
+## **Tech Stack**<br/>
+## Frontend:
+- ReactJS: A JavaScript library for building user interfaces.
+- Vite: A build tool for modern web projects.
+- CSS: Styling for the user interface.
+- Reactstrap: For UI components (Optional, can be replaced with custom CSS).<br/>
 
-## Backend:
-Spring Boot: A framework for building Java applications.
-Spring Web: To create RESTful APIs.
-Spring Data MongoDB: To interact with MongoDB for storing posts.
-Spring Data JPA: For MySQL database interaction (storing login details).
-Spring Security: To handle authentication and authorization.
-Spring Boot DevTools: For development tools like LiveReload and fast application restarts.
-Lombok: To reduce boilerplate code in Java.
-Validation: Bean validation using Hibernate Validator.
-OAuth2 Client: For secure authentication and integration with OAuth2 providers.
-Spring Session: To manage user session information.
-Spring Boot Actuator: For monitoring and managing the application.
+## Backend:</br>
+- Spring Boot: A framework for building Java applications.
+- Spring Web: To create RESTful APIs.
+- Spring Data MongoDB: To interact with MongoDB for storing posts.
+- Spring Data JPA: For MySQL database interaction (storing login details).
+- Spring Security: To handle authentication and authorization.
+- Spring Boot DevTools: For development tools like LiveReload and fast application restarts.
+- Lombok: To reduce boilerplate code in Java.
+- Validation: Bean validation using Hibernate Validator.
+- OAuth2 Client: For secure authentication and integration with OAuth2 providers.
+- Spring Session: To manage user session information.
+- Spring Boot Actuator: For monitoring and managing the application.
 
-## Databases:
-MongoDB: Stores NGO posts and related data.
-MySQL: Stores user authentication details and login information.
+## Databases:</br>
+MongoDB: Stores NGO posts and related data.</br>
+MySQL: Stores user authentication details and login information.</br>
 
-## Build Tools:
+## Build Tools:</br>
 Maven: Build tool for managing dependencies and project configuration.
 
 
