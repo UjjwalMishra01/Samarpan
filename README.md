@@ -1,4 +1,4 @@
-# Samarpan - NGO Donation Platform
+# Samarpan - NGO Donation Platform (Disclaimer: Ongoing Project-Codebase will be updated soon. Stay Tuned!)
 Samarpan is a web application that allows NGOs to post their requirements and users to contribute by donating. The application aims to connect NGOs with potential donors to provide an easy, streamlined way to fulfill their needs.
 
 ## Features
