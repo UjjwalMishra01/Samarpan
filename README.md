@@ -1,12 +1,12 @@
-#**Samarpan - NGO Donation Platform**
+#Samarpan - NGO Donation Platform
 Samarpan is a web application that allows NGOs to post their requirements and users to contribute by donating. The application aims to connect NGOs with potential donors to provide an easy, streamlined way to fulfill their needs.
 
 ##Features
-NGOs can register and post their requirements.
-Users can register and donate to various NGOs.
-Secure login system using OAuth2 and Spring Security.
-MongoDB to store posts and MySQL for storing user login information.
-Modern UI using ReactJS with a responsive design.
+-NGOs can register and post their requirements.
+-Users can register and donate to various NGOs.
+-Secure login system using OAuth2 and Spring Security.
+-MongoDB to store posts and MySQL for storing user login information.
+-Modern UI using ReactJS with a responsive design.
 
 ##**Tech Stack**
 ##Frontend:
